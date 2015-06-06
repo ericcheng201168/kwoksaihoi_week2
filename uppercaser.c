@@ -15,7 +15,7 @@
 char c;
 
 int main() {
-    do { 
+    do {
         // Read a character from stdin
         c = fgetc(stdin);
         // End of file? Nothing left to read...
